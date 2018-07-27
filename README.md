@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-<br> ici on écrit les commentaire
+<br> Ici on écrit les commentaire
